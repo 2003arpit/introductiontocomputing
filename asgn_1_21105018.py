@@ -64,5 +64,5 @@ print(color_list)
 #QUESTION 5(b)
 
 color_list=["Red","Green","White","Black","Pink","Yellow"]
-color_list[3:5]=[];color_list.insert(3,"Purple")
+color_list[3:5]=["Purple"]
 print(color_list)
